@@ -42,8 +42,7 @@ Node.js
 
 * Start the program by running node liri.js in the terminal
 * You will be presented with this menu:
-![GitHub Logo](/images/instruct1.png)
-Format: ![Alt Text](url)
+![GitHub Logo](./images/instruct1.png)
 
 
 
