@@ -42,7 +42,7 @@ Node.js
 
 * Start the program by running node liri.js in the terminal
 * You will be presented with this menu:
-![GitHub Logo](./images/instruct1.png)
+![GitHub Logo](https://github.com/lmasullo/liri-node-app/blob/master/images/instruct1.png "Logo Title Text 1")
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
