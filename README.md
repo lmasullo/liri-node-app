@@ -18,28 +18,32 @@ Liri Node App
 Your wish is my command! 
 The Liri Node App will take your input and produce the desired results.
 
-This is a fun movie trivia game.
-Press the Start button to get started. You will presented with movie trivia questions. You only have 10 seconds to make a choice, so don't delay! Good Luck!
-
 ### Installing
 
 * Clone this repository
 * Run npm init -y
 * Run npm install
-* Start the program by running node liri.js in the terminal
+
 
 ## Built With
 
 Javascript
 Node.js
 
-###NPM Packages
+### NPM Packages
 * Dotenv
 * Inquirer
 * Axios
 * Spotify
 * Moment
 * Fs
+
+## Instructions
+
+* Start the program by running node liri.js in the terminal
+* You will be presented with this menu:
+![GitHub Logo](/images/instruct1.png)
+Format: ![Alt Text](url)
 
 
 
