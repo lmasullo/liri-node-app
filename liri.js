@@ -19,7 +19,9 @@ const fs = require('fs');
 // Import the keys.js
 const keys = require('./keys.js');
 
-console.log('connected');
+console.log('connected \n\n\n');
+
+console.log('Liri Node App\n\nYour Wish is My Command!\n');
 
 //! Functions ******************************
 
