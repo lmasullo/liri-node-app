@@ -59,7 +59,7 @@ The app uses the following NPM packages:
 
 ## Demo
 
-![](images/liridemo.mov)
+![](./images/liridemo.mov)
 
 ## Versioning
 
