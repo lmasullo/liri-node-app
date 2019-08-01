@@ -59,7 +59,7 @@ The app uses the following NPM packages:
 
 ## Demo
 
-![alt text](images/liridemo.mov "Demo Movie")
+![](images/liridemo.mov)
 
 ## Versioning
 
