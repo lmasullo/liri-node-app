@@ -59,7 +59,9 @@ The app uses the following NPM packages:
 
 ## Demo
 
-![](./images/liridemo.mov)
+<video width="320" height="240" controls>
+  <source src="images/liridemo.mov" type="video/mp4">
+</video>
 
 ## Versioning
 
