@@ -29,7 +29,7 @@ console.log('Liri Node App\n\nYour Wish is My Command!\n');
 function logTxt(strLog) {
   fs.appendFile('log.txt', strLog, (err) => {
     if (err) throw err;
-    console.log('Saved!');
+    console.log('\nSearch Successful!');
   });
 } // End log txt function
 
