@@ -43,8 +43,13 @@ Node.js
 * Start the program by running node liri.js in the terminal
 * You will be presented with this menu:
 
-Inline-style: 
-![alt text](images/instruct1.png "Logo Title Text 1")
+![alt text](images/instruct1.png "Main Menu")
+
+* Use your arrow key to make a choice and press Enter
+* You will be given a confirmation message, press Enter if you want to continue
+* Enter the Search Term and press Enter
+
+![alt text](images/instruct2.png "Search Result")
 
 
 
