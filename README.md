@@ -44,7 +44,7 @@ Node.js
 * You will be presented with this menu:
 
 Inline-style: 
-![alt text](https://github.com/lmasullo/liri-node-app/blob/master/images/instruct1.png "Logo Title Text 1")
+![alt text](images/instruct1.png "Logo Title Text 1")
 
 
 
