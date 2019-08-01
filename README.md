@@ -59,7 +59,7 @@ The app uses the following NPM packages:
 
 ## Demo
 
-https://lmasullo.github.io/TriviaGame/
+![alt text](images/liridemo.mov "Demo Movie")
 
 ## Versioning
 
