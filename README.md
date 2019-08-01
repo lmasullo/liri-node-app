@@ -59,7 +59,11 @@ The app uses the following NPM packages:
 
 ## Demo
 
-![](images/liridemo.mov)
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="images/liridemo.mov" type="video/mov">
+  </video>
+</figure>
 
 ## Versioning
 
