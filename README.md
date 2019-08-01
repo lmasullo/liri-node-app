@@ -1,13 +1,10 @@
 # Project Title
 
 
-Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-Give a high-level overview of how the app is organized
-Give start-to-finish instructions on how to run the app
+
 Include screenshots, gifs or videos of the app functioning
 Contain a link to a deployed version of the app
 
-State your role in the app development
 
 
 
@@ -15,8 +12,9 @@ Liri Node App
 
 ## Description:
 
-Your wish is my command! 
-The Liri Node App will take your input and produce the desired results.
+Did you ever want to know when your favorite band is coming to town, or information about a song or movie?
+Your wish is my command!
+The Liri Node App will take your input, do the search, and produce the desired results.
 
 ### Installing
 
@@ -30,29 +28,34 @@ The Liri Node App will take your input and produce the desired results.
 Javascript
 Node.js
 
+LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+The app uses the following NPM packages: 
+
 ### NPM Packages
-* Dotenv
-* Inquirer
-* Axios
-* Spotify
-* Moment
-* Fs
+* Dotenv - keep the keys safe
+* Inquirer - provides the menu system
+* Axios - used to nake the http requests
+* Spotify - music API
+* Moment - date formatter
+* Fs - node file system to read and write to the text files
 
 ## Instructions
 
-* Start the program by running node liri.js in the terminal
+* Start the program by running 'node liri.js' in the terminal
 * You will be presented with this menu:
 
 ![alt text](images/instruct1.png "Main Menu")
 
-* Use your arrow key to make a choice and press Enter
-* You will be given a confirmation message, press Enter if you want to continue
-* Enter the Search Term and press Enter
+* Use your arrow key to make a choice and press 'Enter'
+* You will be given a confirmation message, press 'Enter' if you want to continue
+* Enter the Search Term and press 'Enter'
 * You will be presented with the search results:
 
 ![alt text](images/instruct2b.png "Search Result")
 
-
+* You have your choice to search for a concert, song, or a movie.
+* The last choice in the menu "Run Text File Command' will read the random.tx file and execute the enclosed command.
+* All of the search results are saved in the log.txt file
 
 ## Demo
 
@@ -65,7 +68,7 @@ Current version is 1.0
 
 ## Authors
 
-* **Larry Masullo**
+* **Larry Masullo (sole author)**
 
 ## License
 
