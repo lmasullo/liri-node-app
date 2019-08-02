@@ -59,13 +59,7 @@ The app uses the following NPM packages:
 
 ## Demo
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/-isHopAYq7w" frameborder="0" allowfullscreen="true"></iframe>
-</figure>
-
-
-[![Watch the video](https://www.youtube.com/embed/-isHopAYq7w/maxresdefault.jpg)](https://www.youtube.com/embed/-isHopAYq7w)
+[![Watch the video](https://www.youtube.com/embed/-isHopAYq7w/maxresdefault.jpg)](images/instruct1.png "Main Menu")
 
 
 ## Versioning
