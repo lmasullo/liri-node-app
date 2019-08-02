@@ -54,7 +54,7 @@ The app uses the following NPM packages:
 
 ## Demo (Click the Image to View the Demo Video)
 
-[![Watch the video](images/instruct1.png)](https://www.youtube.com/embed/-isHopAYq7w "Main Menu")
+[![Watch the video](images/instruct1.png)](images/liridemo.mov "Main Menu")
 
 ## GitHub Repo
 https://github.com/lmasullo/liri-node-app
