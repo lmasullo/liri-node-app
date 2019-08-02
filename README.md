@@ -26,7 +26,9 @@ The app uses the following NPM packages:
 * Dotenv - keep the keys safe
 * Inquirer - provides the menu system
 * Axios - used to nake the http requests
-* Spotify - music API
+* Node-Spotify-API - music API
+* Bands in Town API - concert API
+* OMDB API - movie API
 * Moment - date formatter
 * Fs - node file system to read and write to the text files
 
