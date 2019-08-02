@@ -25,8 +25,8 @@ The Liri Node App will take your input, do the search, and produce the desired r
 
 ## Built With
 
-Javascript
-Node.js
+* Javascript
+* Node.js
 
 LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 The app uses the following NPM packages: 
@@ -68,7 +68,7 @@ Current version is 1.0
 
 ## Authors
 
-* **Larry Masullo (sole author)**
+**Larry Masullo (sole author)**
 
 ## License
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to the Instructors and Teaching Assistants in the UT Full Stack Coding Bootcamp for their support. 
+Thanks to the Instructors and Teaching Assistants in the UT Full Stack Coding Bootcamp for their support. 
