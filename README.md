@@ -50,6 +50,8 @@ The app uses the following NPM packages:
 * The last choice in the menu "Run Text File Command' will read the random.tx file and execute the enclosed command.
 * All of the search results are saved in the log.txt file
 
+![alt text](images/log.png "Log.txt File")
+
 ## Demo (Click the Image to View the Demo Video)
 
 [![Watch the video](images/instruct1.png)](https://www.youtube.com/embed/-isHopAYq7w "Main Menu")
