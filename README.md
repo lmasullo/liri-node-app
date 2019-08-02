@@ -54,6 +54,9 @@ The app uses the following NPM packages:
 
 [![Watch the video](images/instruct1.png)](https://www.youtube.com/embed/-isHopAYq7w "Main Menu")
 
+## GitHub Repo
+https://github.com/lmasullo/liri-node-app
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. 
