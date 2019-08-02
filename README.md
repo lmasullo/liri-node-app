@@ -59,7 +59,7 @@ The app uses the following NPM packages:
 
 ## Demo
 
-[![Watch the video](https://www.youtube.com/embed/-isHopAYq7w/maxresdefault.jpg)](images/instruct1.png "Main Menu")
+[![Watch the video](images/instruct1.png)](https://www.youtube.com/embed/-isHopAYq7w "Main Menu")
 
 
 ## Versioning
