@@ -1,13 +1,5 @@
 # Project Title
 
-
-
-Include screenshots, gifs or videos of the app functioning
-Contain a link to a deployed version of the app
-
-
-
-
 Liri Node App
 
 ## Description:
@@ -21,7 +13,6 @@ The Liri Node App will take your input, do the search, and produce the desired r
 * Clone this repository
 * Run npm init -y
 * Run npm install
-
 
 ## Built With
 
