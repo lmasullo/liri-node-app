@@ -47,7 +47,7 @@ The app uses the following NPM packages:
 ![alt text](images/instruct2b.png "Search Result")
 
 * You have your choice to search for a concert, song, or a movie.
-* The last choice in the menu "Run Text File Command' will read the random.tx file and execute the enclosed command.
+* The last choice in the menu "Run Text File Command' will read the random.txt file and execute the enclosed command.
 * All of the search results are saved in the log.txt file
 
 ![alt text](images/log.png "Log.txt File")
