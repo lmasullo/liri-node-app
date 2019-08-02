@@ -59,13 +59,13 @@ The app uses the following NPM packages:
 
 ## Demo
 
-<-- New Line --/>
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/-isHopAYq7w" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
-<-- New Line --/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-isHopAYq7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://www.youtube.com/embed/-isHopAYq7w/maxresdefault.jpg)](https://www.youtube.com/embed/-isHopAYq7w)
 
 
 ## Versioning
