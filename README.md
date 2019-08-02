@@ -1,6 +1,6 @@
 # Project Title
 
-**Liri Node App
+**Liri Node App**
 
 ## Description:
 
@@ -59,7 +59,7 @@ Current version is 1.0
 
 ## Authors
 
-**Larry Masullo (sole author)
+**Larry Masullo (sole author)**
 
 ## License
 
